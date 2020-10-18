@@ -5,7 +5,7 @@ int main()
 {
 	 int num1, num2, hcf, i;
 	
-	 printf("Enter two numbers:\n");
+	 printf("Enter Two Numbers:\n");
 	 scanf("%d%d", &num1, &num2);
 	
 	
