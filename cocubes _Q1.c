@@ -12,7 +12,7 @@ int main()
 		scanf("%d",&a[i]);
 	}
 	
-	printf("Enter a element which u want to search");
+	printf("Enter a element which you want to search");
 	scanf("%d",&n);
 	
 	for(i=0;i<=9;i++)
